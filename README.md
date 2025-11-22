@@ -1,5 +1,10 @@
-# interfaces/index.ts
-
+# interfaces/index.ts 
+export interface ButtonProps {
+  size: "small" | "medium" | "large";
+  shape: "rounded-sm" | "rounded-md" | "rounded-full";
+  label: string;
+  onClick?: () => void;
+}
 # alx-project-0x02-setup
 # Next.js Project Setup and Basics
 # components/common/PostModal.tsx
