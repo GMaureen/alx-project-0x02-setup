@@ -1,3 +1,4 @@
+# pages/about.tsx
 # components/common/Button.tsx
 import { ButtonProps } from "@/interfaces";
 
