@@ -1,9 +1,4 @@
-// interfaces/index.ts
 
-export interface CardProps {
-  title: string;
-  content: string;
-}
 # alx-project-0x02-setup
 # Next.js Project Setup and Basics
 
