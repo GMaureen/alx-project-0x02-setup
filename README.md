@@ -1,3 +1,4 @@
+# components/common/Button.tsx
 # interfaces/index.ts 
 export interface ButtonProps {
   size: "small" | "medium" | "large";
